@@ -1,0 +1,3 @@
+Dushime,Bill Benon,17,MALE
+Munganyinka,Shakira,18,FEMALE
+Rwagapfizi,Igor,17,OTHER
